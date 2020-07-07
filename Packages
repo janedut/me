@@ -1,0 +1,19 @@
+Package: com.aohuiliu.fighting
+Architecture: iphoneos-arm
+Version: 2.2.3
+Section: Tweaks
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
+Filename: ./debians/com.aohuiliu.fighting_2.2.3_iphoneos-arm.deb
+Size: 82918
+MD5sum: 7bfa964f00411d4d3ce23ec362da82ad
+SHA1: 8faf3feb5bb4384c10a51c09d0bce104c8049008
+SHA256: f77af42ec719fc9e485ebd355b66df51c7e6fe057c672cc7a282b96f6588ba6c
+SHA512: 70bfca63570e8295613950876ad1d86d28dd2c2ddcfe04b9074c315284e214089056f4f19a483ca20b7e8bf3c8967d8cb985550134aa50eb8b28de3e78c6f963
+Description: My Tweak!
+Name: Fighting
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.fighting
+Author: AohuiLiu <x345242281@outlook.com>
+
